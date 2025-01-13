@@ -927,6 +927,10 @@ table.imgtable, table.imgtable td {
 	margin-bottom: 15px; /* 减小外边距 */
 }
 
+.session-location {
+	text-align: center; /* 在手机上居中显示 */
+}
+
 }
 
 
@@ -1343,5 +1347,9 @@ table.imgtable, table.imgtable td {
 .schedule-day h2 {
 	font-size: 1.5em; /* 减小字体大小 */
 	margin-bottom: 15px; /* 减小外边距 */
+}
+
+.session-location {
+	text-align: center; /* 在手机上居中显示 */
 }
 }
