@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9f29ba61-96d4-45c6-8673-1f12dcf585a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025/speakers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jiang/OneDrive - Cardiff University/Documents/GitHub/CardiffVisualComputing.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jiang Liu/Cardiff/GitHub/CardiffVisualComputing.github.io&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -58,8 +59,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -75,6 +76,8 @@
       <workItem from="1736545834267" duration="6665000" />
       <workItem from="1736553330640" duration="39899000" />
       <workItem from="1736773129847" duration="14801000" />
+      <workItem from="1742567524579" duration="2340000" />
+      <workItem from="1743154978107" duration="580000" />
     </task>
     <servers />
   </component>
