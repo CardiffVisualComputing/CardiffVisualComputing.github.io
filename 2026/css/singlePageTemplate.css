@@ -444,6 +444,14 @@ table.imgtable, table.imgtable td {
 	flex-shrink: 0;
 }
 
+.speaker-photo--maurice {
+	object-position: center 35%;
+}
+
+.speaker-photo--patrick {
+	object-position: center 25%;
+}
+
 .speaker h3 {
     font-size: 1.2em;
     margin: 10px 0 5px; /* 调整上下间距 */
@@ -636,6 +644,14 @@ ul li:hover a {
 		width: 120px;
 		height: 120px;
 		margin-right: 10px;
+}
+
+.speaker-photo--maurice {
+	object-position: center 35%;
+}
+
+.speaker-photo--patrick {
+	object-position: center 25%;
 }
 
 .link {
@@ -919,6 +935,14 @@ table.imgtable, table.imgtable td {
 	width: 140px;
 	height: 140px;
 	margin-right: 12px;
+}
+
+.speaker-photo--maurice {
+	object-position: center 35%;
+}
+
+.speaker-photo--patrick {
+	object-position: center 25%;
 }
 
 .speakers-grid {
