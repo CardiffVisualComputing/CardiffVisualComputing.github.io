@@ -421,7 +421,7 @@ table.imgtable, table.imgtable td {
     text-align: center; /* 图片和文字居中对齐 */
 }
 
-.speaker img {
+.speakers-grid .speaker img {
 	width: 200px; /* 统一图片宽度 */
 	height: 200px; /* 统一图片高度 */
 	object-fit: cover; /* 保持比例并裁切多余区域 */
@@ -430,6 +430,18 @@ table.imgtable, table.imgtable td {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
 	display: block;
 	margin: 0 auto;
+	max-width: none;
+}
+
+.speaker-photo {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	object-position: center;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	margin-right: 20px;
+	flex-shrink: 0;
 }
 
 .speaker h3 {
@@ -618,6 +630,12 @@ ul li:hover a {
   margin-bottom: -1vw;
  width: 30%;
 	opacity:1;
+}
+
+.speaker-photo {
+		width: 120px;
+		height: 120px;
+		margin-right: 10px;
 }
 
 .link {
@@ -895,6 +913,12 @@ table.imgtable, table.imgtable td {
 
 .speaker h3 {
     font-size: 0.6em;
+}
+
+.speaker-photo {
+	width: 140px;
+	height: 140px;
+	margin-right: 12px;
 }
 
 .speakers-grid {
