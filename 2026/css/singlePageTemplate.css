@@ -417,6 +417,12 @@ table.imgtable, table.imgtable td {
     padding: 0 20px; /* 左右内边距 */
 }
 
+.speakers-grid--invited {
+	grid-template-columns: repeat(3, 1fr);
+	justify-items: center;
+	max-width: 900px;
+}
+
 .speaker {
     text-align: center; /* 图片和文字居中对齐 */
 }
