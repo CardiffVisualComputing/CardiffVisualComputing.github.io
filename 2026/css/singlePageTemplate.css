@@ -447,9 +447,7 @@ table.imgtable, table.imgtable td {
 	object-position: center 35%;
 }
 
-.speaker-photo--patrick {
-	object-position: center 25%;
-}
+.speaker-photo--patrick { /* commented out per request */ }
 
 .speaker h3 {
     font-size: 1.2em;
@@ -649,9 +647,7 @@ ul li:hover a {
 	object-position: center 35%;
 }
 
-.speaker-photo--patrick {
-	object-position: center 25%;
-}
+.speaker-photo--patrick { /* commented out per request */ }
 
 .link {
   color: #46C5D4;
@@ -941,7 +937,7 @@ table.imgtable, table.imgtable td {
 }
 
 .speaker-photo--patrick {
-	object-position: center 25%;
+	/* object-position: center 25%; */
 }
 
 .speakers-grid {
